@@ -4,3 +4,6 @@ Added heartbeat sound and "Friendly Dragon" counter.
 
 MIT LICENSE,
 THIS IS FOR LEARNING PURPOSES ONLY, I HAVE NO INTENTION OF PROFITING OFF THIS IN ANY WAY.
+
+
+Heartbeat Sound courtesy of loudernoises from https://www.freesound.org/people/loudernoises/sounds/332810/
